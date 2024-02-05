@@ -1,0 +1,21 @@
+h2 {
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.StudentCard {
+    border: 1px solid;
+    width: 30%;
+    margin: 1%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.StudentCard img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.StudentDetails {
+    padding: 20px;
+}
